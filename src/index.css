@@ -1,0 +1,25 @@
+@import 'bootstrap/dist/css/bootstrap.css';
+
+body, html {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  background-image: url('assets/bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 20%;
+  margin-top: 10%;
+}
+
+.button-container {
+  margin-top: 50px;
+  text-align: center;
+}
